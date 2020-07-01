@@ -1,0 +1,2 @@
+# kafka-producer
+kafka_2.12-0.10.2.1
